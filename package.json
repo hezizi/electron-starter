@@ -1,0 +1,15 @@
+{
+  "name": "my-electron-app",
+  "version": "0.1.0",
+  "description": "electron app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "yuci <yucihent@163.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^27.1.2"
+  }
+}
